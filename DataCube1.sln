@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "DataCube1", "DataCube1\DataCube1.dwproj", "{8B120CA5-EEEE-4497-9E1E-43B923C0B7A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B120CA5-EEEE-4497-9E1E-43B923C0B7A2}.Development|Default.ActiveCfg = Development
+		{8B120CA5-EEEE-4497-9E1E-43B923C0B7A2}.Development|Default.Build.0 = Development
+		{8B120CA5-EEEE-4497-9E1E-43B923C0B7A2}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
